@@ -66,3 +66,24 @@ Enjoy!
 [10]: https://symfony.com/doc/3.0/cookbook/email.html
 [11]: https://symfony.com/doc/3.0/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/3.0/bundles/SensioGeneratorBundle/index.html
+
+
+On GitHub: wmcp2017-symfony-php
+====================
+
+A Symfony project created on March 15, 2017, 1:16 pm.
+
+
+''
+Symfony 3.2.4 was successfully installed. Now you can:
+
+    * Change your current directory to [PATH_TO_GIT]/symfony/wmcp2017-symfony-php
+
+    * Configure your application in app/config/parameters.yml file.
+
+    * Run your application:
+        1. Execute the php bin/console server:run command.
+        2. Browse to the http://localhost:8000 URL.
+
+    * Read the documentation at http://symfony.com/doc
+''
